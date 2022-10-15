@@ -1,0 +1,3 @@
+C:/Users/TruongNVQ/Helloworld/build/CMakeFiles/TruongNVQ.dir
+C:/Users/TruongNVQ/Helloworld/build/CMakeFiles/edit_cache.dir
+C:/Users/TruongNVQ/Helloworld/build/CMakeFiles/rebuild_cache.dir
